@@ -21,7 +21,7 @@
     &kp LG(L)      &kp N6     &kp N7    &kp N8     &kp N9    &kp N0     &kp MINUS
     &kp LG(LS(S))  &kp J      &kp L     &kp U      &kp Y     &kp SEMI   &kp EQUAL
     &kp C_NEXT     &kp H      &kp N     &kp E      &kp I     &kp O      &kp SQT
-    &kp BT_NXT     &kp K      &kp M     &kp COMMA  &kp DOT   &kp FSLH   &kp BSLH
+    &bt BT_NXT     &kp K      &kp M     &kp COMMA  &kp DOT   &kp FSLH   &kp BSLH
     &kp RSHFT      &kp SPACE  &kp BSPC  &kp LBKT   &kp RBKT
                         >;
                 };
@@ -36,7 +36,7 @@
     &none          &kp F9     &kp F13   &kp F17    &kp F21   &kp PG_UP  &kp INS
     &none          &kp F10    &kp F14   &kp F18    &kp F22   &kp PG_DN  &kp END
     &kp C_PREV     &kp F11    &kp F15   &kp F19    &kp F23   &kp HOME   &kp PAUSE_BREAK
-    &kp BT_CLR     &kp F12    &kp F16   &kp F20    &kp F24   &kp END    &kp PSCRN
+    &bt BT_CLR     &kp F12    &kp F16   &kp F20    &kp F24   &kp END    &kp PSCRN
     &none          &none      &kp DEL   &none      &none
                         >;
                 };
